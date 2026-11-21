@@ -60,7 +60,7 @@
 - Uses regex-based skill matching and SQLite storage.
 - Displays resume analysis through interactive Plotly charts.
 
-🔗 [Live Application](YOUR_LIVE_APP_LINK) | [GitHub Repository](YOUR_REPOSITORY_LINK)
+🔗 [Live Application](https://alwin-placement-analyzer.streamlit.app/) | [GitHub Repository](https://github.com/alwinjones/placement-readiness-analyzer/tree/main)
 
 ### 2. HIGHLIGHT – Product Discovery Website
 
@@ -71,7 +71,7 @@
 - Includes an admin dashboard.
 - Deployed using Vercel.
 
-🔗 [Live Website](YOUR_HIGHLIGHT_WEBSITE_LINK) | [GitHub Repository](https://github.com/alwinjones/highlight-website)
+🔗 [Live Website](https://highlight-website-vercel.vercel.app/) | [GitHub Repository](https://github.com/alwinjones/highlight-website)
 
 ### 3. Anime E-Commerce Website
 
@@ -82,7 +82,6 @@
 - Added shipping-address checkout with simulated Card/COD payment.
 - Implemented admin product and order management.
 
-🔗 [GitHub Repository](YOUR_ANIME_PROJECT_LINK)
 
 ### 4. Basic Chatbot
 
@@ -91,7 +90,7 @@
 - Developed a basic Python chatbot for text-based interaction.
 - Handles simple user interactions through predefined responses.
 
-🔗 [GitHub Repository](YOUR_CHATBOT_REPOSITORY_LINK)
+
 
 ## 💼 Experience
 
